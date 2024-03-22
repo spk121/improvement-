@@ -5,10 +5,10 @@ The goals for each phase of the project.
 ## Phase 1
 Mar 24 to June 23.
 
-* Weights
-* Protein, bro
+* Weights. Radically Simple Strength
+* Protein, bro. 175 g
 * No sugar
-* Hydro, homie
+* Hydro, homie. 4 Liters
 * No porn
 * No fap
 * No games
@@ -20,7 +20,7 @@ Mar 24 to June 23.
 * Church every Sunday
 * Journal every day
 * Fix website
-* Do basic skincare
+* Do basic skincare https://www.gq.com/story/simple-skin-care-for-men
 * Wear sunscreen
 * Fix teeth
 * Practice guitar at lumchtime
@@ -35,4 +35,5 @@ June 24 to Sept 23.
 * Switch from e-bike commute to road bike commute
 * Make personal website primary source of my social presence
 * cosmetic dermatologist
-* Add running. Train for half marathon
+* Add basic running
+* know 20 songs on guitar
