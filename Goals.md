@@ -34,4 +34,5 @@ June 24 to Sept 23.
 * Add Scuba class
 * Switch from e-bike commute to road bike commute
 * Make personal website primary source of my social presence
-* cosmetic dermatologist 
+* cosmetic dermatologist
+* Add running. Train for half marathon
